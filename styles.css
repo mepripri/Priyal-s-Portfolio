@@ -567,7 +567,13 @@ html {
   }
   .sal-p {
     font-weight: 700;
-    font-size: 5rem;
+    font-size: 4rem;
+  }
+  .desc-p {
+    font-size: 1.8rem;
+  }
+  .head-btn {
+    font-size: 1.6rem;
   }
   .head-p {
     font-size: 7rem;
