@@ -565,12 +565,19 @@ html {
     font-weight: 600;
     font-size: 1.1rem;
   }
-  .sal-p {
+    .sal-p {
     font-weight: 700;
-    font-size: 2.3rem;
+    font-size: 2.3em;
+  }
+  .desc-p {
+    font-size: 1.5em;
+  }
+  .head-btn {
+    font-size: 1.2em;
+    margin: 0 auto;
   }
   .head-p {
-    font-size: 4.5rem;
+    font-size: 6em;
   }
   .head-div {
     padding-left: 0;
@@ -584,7 +591,7 @@ html {
     padding-bottom: 10%;
   }
   .main-img {
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
   }
   .aboutme {
